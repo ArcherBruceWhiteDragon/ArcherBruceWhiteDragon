@@ -14,7 +14,7 @@ Automated cybersecurity scanning and compliance platform. Scores systems across 
 
 ---
 
-### 🗺️ Socia Network — Service Mart℠™
+### 🗺️ Socia Network — Service Mart℠
 *B2B Marketplace*  
 GPS-based, map-driven business directory where businesses are discoverable by location and surface on the map based on subscription tier. Built for the way local commerce actually works.  
 `FastAPI` `React` `Vite` `PostgreSQL` `Redis` `Docker` `Nginx`
