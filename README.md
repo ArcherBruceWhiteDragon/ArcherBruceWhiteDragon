@@ -43,7 +43,7 @@ Networking    Cisco CCNA track · OSPFv2 · ACLs · NAT · VPCs
 
 ## Background
 
-Full-stack developer and entrepreneur with roots in cybersecurity, cloud infrastructure, AI integration, and intellectual property strategy. Currently completing an Entrepreneurship degree with a Business Information Systems concentration.
+Full-stack developer and entrepreneur with roots in cybersecurity, cloud infrastructure, AI integration, and intellectual property strategy. Currently completing an Entrepreneurship (venture capital) degree with a Business Information Systems concentration.
 
 All active repositories are private — protecting IP while building.
 
