@@ -49,6 +49,21 @@ My cloud and networking learning also includes Amazon Web Services (AWS) labs an
 
 I bring this learning into my work with the team: understanding business needs, developing useful applications, protecting data, and documenting what we have tested and what still needs work.
 
+## Early development portfolio
+
+These are some of my first repositories. They show my development and learning over time; their age, scope, and maintenance status are part of that history. They are separate from the current ventures described above.
+
+| Repository | What it contains | Context |
+| --- | --- | --- |
+| [NuCampSite — React web](https://github.com/ArcherBruceWhiteDragon/nucampsite) | A campsite-directory interface with page routing and local sample data. | Early learning project; documentation updated. Current runtime and build have not been verified. |
+| [NuCampSite — React Native](https://github.com/ArcherBruceWhiteDragon/nucampsite1) | An Expo / React Native campsite application with screen components. | Archived mobile-development learning project; legacy dependencies. |
+| [Tip Calculator](https://github.com/ArcherBruceWhiteDragon/Tip-Calculator) | An HTML and JavaScript interface that calculates a tip and bill total. | Archived exercise in user input, events, and calculations. |
+| [Weather App](https://github.com/ArcherBruceWhiteDragon/MyWeatherApp) | A city-based weather-interface exercise using an external application programming interface (API). | Archived learning project; API configuration and code corrections are needed before use. |
+| [Early personal website (CV)](https://github.com/ArcherBruceWhiteDragon/CV) | An early HTML personal-site exercise. | Archived historical content; biography and links may be outdated. Use my main LinkedIn profile below for current contact information. |
+| [Socia Coin concept](https://github.com/ArcherBruceWhiteDragon/crypto-socia-coin) | A README, license, and ignore file. | Archived concept placeholder; contains no application implementation and is not presented as a launched token or working payment system. |
+
+Course scaffolds, frameworks, and third-party libraries retain their respective authors’ credit. These repositories are presented as learning history, without claiming that every line or design originated with me.
+
 ## Build a better future with us
 
 I believe making the world a better place is a responsibility we share in the present moment. The future takes shape through what we choose to build, protect, and make possible for one another today.
