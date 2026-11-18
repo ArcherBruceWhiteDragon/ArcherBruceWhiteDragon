@@ -37,33 +37,36 @@ I am developing a philosophy and research direction around how innovation, pract
 
 This work is in development. The planned global statistical test has not been conducted, and the theory is not presented as an established empirical finding.
 
-## Undergraduate education and professional development
+## Education & Professional Development
 
-My undergraduate education connects business, entrepreneurship, information systems, and cybersecurity. Completed degrees and ongoing studies are listed separately.
+My education brings together technology, business, economics, and entrepreneurship.
 
-### Completed undergraduate degrees
+### Undergraduate Degrees
 
-| Institution | Degree | Award date |
+| Field of study | College | Completed |
 | --- | --- | --- |
-| Coastline College | Associate in Science in Information Technology | May 2026 |
-| Coastline College | Associate in Science in Cybersecurity | December 2025 |
-| Coastline College | Associate in Science for Transfer in Business Administration | August 2021 |
-| Coastline College | Associate in Arts in Economics | August 2021 |
-| Santa Ana College | Associate in Arts in Business Administration | December 2013 |
-| Santa Ana College | Associate in Arts in Liberal Arts | June 2011 |
+| Information Technology | Coastline College | May 2026 |
+| Cybersecurity | Coastline College | December 2025 |
+| Business Administration — Transfer Program | Coastline College | August 2021 |
+| Economics | Coastline College | August 2021 |
+| Business Administration | Santa Ana College | December 2013 |
+| Liberal Arts | Santa Ana College | June 2011 |
 
-### Undergraduate studies in progress
+### Continuing Undergraduate Studies
 
-- **California State University, Fullerton:** Working toward a double major in **Entrepreneurship and Business Information Systems**. These studies support my work in venture development, business operations, and the practical use of information systems.
-- **Coastline College — Computer Information Systems:** Associate in Science **expected after Fall 2026**, subject to completion and the college’s degree-award process.
-- **Artificial intelligence and cybersecurity studies:** Continuing coursework and practical labs at Coastline College in artificial intelligence, data science, data governance, databases, network security, penetration testing, and incident response. Ongoing studies are not presented as additional awarded degrees.
+**California State University, Fullerton**  
+Working toward a double major in **Entrepreneurship and Business Information Systems**, connecting venture development, business operations, and technology.
 
-### Certificates and professional development
+**Coastline College**  
+Computer Information Systems — **expected after Fall 2026**, pending completion and degree conferral. Continuing studies in **artificial intelligence and cybersecurity**, including data science, data governance, databases, network security, penetration testing, and incident response.
 
-- **Coastline College — Certificates of Achievement:** Cybersecurity (December 2025) and CSA Breadth (August 2021), listed separately from degrees.
-- **Cloud and networking:** Amazon Web Services (AWS) labs and Cisco networking coursework. Coursework and lab experience are described separately from professional certification.
+### Certificates & Applied Learning
 
-I bring this learning into my work with the team: understanding business needs, developing useful applications, protecting data, and documenting what we have tested and what still needs work.
+**Coastline College:** Certificates of Achievement in Cybersecurity (December 2025) and CSA Breadth (August 2021).
+
+**Cloud and networking:** Practical Amazon Web Services (AWS) labs and Cisco networking coursework.
+
+I apply this learning through development, testing, troubleshooting, and documentation with my team. Degrees, certificates, coursework, and practical experience are listed in their respective sections.
 
 ## Early development portfolio
 
