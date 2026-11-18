@@ -39,7 +39,15 @@ This work is in development. The planned global statistical test has not been co
 
 ## Education and professional development
 
-I am continuing my studies in cybersecurity, artificial intelligence, data governance, databases, cloud infrastructure, and business. My Associate in Science in Computer Information Systems at Coastline College is **expected after Fall 2026**; it is not yet listed here as awarded.
+My academic path connects entrepreneurship, business systems, and responsible technology development.
+
+- **California State University, Fullerton:** I am working toward a double major in **Entrepreneurship and Business Information Systems**. These studies support my work in venture development, business operations, and the practical use of information systems.
+- **Coastline College:** My studies include **artificial intelligence and cybersecurity**, with coursework and practical labs in data science, data governance, databases, network security, penetration testing, and incident response.
+- **Computer Information Systems:** My Associate in Science at Coastline College is **expected after Fall 2026**, subject to completion and the college’s degree-award process.
+
+My cloud and networking learning also includes Amazon Web Services (AWS) labs and Cisco networking coursework. Coursework and lab experience are described separately from professional certifications. Ongoing programs are not presented here as awarded degrees.
+
+I bring this learning into my work with the team: understanding business needs, developing useful applications, protecting data, and documenting what we have tested and what still needs work.
 
 ## Build a better future with us
 
