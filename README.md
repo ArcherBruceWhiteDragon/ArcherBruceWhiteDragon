@@ -41,6 +41,20 @@ This work is in development. The planned global statistical test has not been co
 
 I am continuing my studies in cybersecurity, artificial intelligence, data governance, databases, cloud infrastructure, and business. My Associate in Science in Computer Information Systems at Coastline College is **expected after Fall 2026**; it is not yet listed here as awarded.
 
+## Build a better future with us
+
+I believe making the world a better place is a responsibility we share in the present moment. The future takes shape through what we choose to build, protect, and make possible for one another today.
+
+At United Intellectual Property Holdings™, my team and I are working toward technology that helps people find opportunity, makes business easier, and supports safer, more connected communities. Our work is still developing. We welcome people who bring curiosity, integrity, practical skills, and a willingness to learn together.
+
+You do not need to have every answer to contribute. You may see a problem we have overlooked, know a local business that needs a better tool, or bring experience in software, cybersecurity, design, research, or building a business. A thoughtful question, honest feedback, or a useful introduction can help move the work forward.
+
+If this vision speaks to you, connect with me on [LinkedIn](https://www.linkedin.com/in/archerwhitedragon/). Tell me which problem matters to you, what you could contribute, and what we might learn from one another. Let’s start with a conversation and a practical next step.
+
+**A better future deserves more than our hopes. It deserves our care, cooperation, and action today.**
+
+Archer
+
 ## Connect
 
 I welcome thoughtful conversations with developers, cybersecurity professionals, local business owners, founders, researchers, and potential collaborators who value responsible development and practical results.
