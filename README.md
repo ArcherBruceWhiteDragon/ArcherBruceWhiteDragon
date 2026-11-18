@@ -12,13 +12,16 @@ I work with a team to turn useful ideas into practical software and sustainable 
 | **[Socia Network™](https://www.socia.network)** | A local services marketplace connecting customers with service providers through discovery, profiles, and booking workflows. | Development and preparation for a Laguna Beach pilot. |
 | **WhiteDragonGuard** | Linux security auditing, findings, and controlled remediation workflows. | Private software development; further AI-assisted capabilities are a development direction. |
 | **MediTricorder / MediDragon** | An experimental health-information assistant exploring conversational vitals collection and summaries. | Research and prototyping; not a clinically validated diagnostic product. |
-| **AI-assisted business workflows** | Exploring how inquiry handling, approved responses, scheduling, and business reporting could help local service businesses. | Concept development and customer validation; not a launched service. |
 
 Project descriptions summarize the work and its direction. A planned feature is not a claim of a released capability, proven outcome, or commercial readiness.
 
+## My contribution and approach
+
+I contribute as a founder and team member through project direction, requirements, hands-on development, testing, troubleshooting, and documentation. These projects involve collaboration; I do not present every component as work I completed alone.
+
 ## Development and learning
 
-Tools I work with and continue to study include:
+My experience combines venture development, coursework, and practical labs. The following tools and topics reflect that mix; they are not a claim of expert-level proficiency or a certification:
 
 - **Software:** Python, JavaScript, SQL, React, FastAPI, and Node.js.
 - **Data:** PostgreSQL, MySQL, SQLite, and Redis.
