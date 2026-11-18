@@ -57,7 +57,7 @@ At United Intellectual Property Holdings™, my team and I are working toward te
 
 You do not need to have every answer to contribute. You may see a problem we have overlooked, know a local business that needs a better tool, or bring experience in software, cybersecurity, design, research, or building a business. A thoughtful question, honest feedback, or a useful introduction can help move the work forward.
 
-If this vision speaks to you, connect with me on [LinkedIn](https://www.linkedin.com/in/archerwhitedragon/). Tell me which problem matters to you, what you could contribute, and what we might learn from one another. Let’s start with a conversation and a practical next step.
+If this vision speaks to you, connect with me on [LinkedIn — Archer WhiteDragon (linkedin.com/in/archerwhitedragon/)](https://www.linkedin.com/in/archerwhitedragon/). Tell me which problem matters to you, what you could contribute, and what we might learn from one another. Let’s start with a conversation and a practical next step.
 
 **A better future deserves more than our hopes. It deserves our care, cooperation, and action today.**
 
